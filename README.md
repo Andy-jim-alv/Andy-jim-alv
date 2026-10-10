@@ -42,9 +42,9 @@ Disfruto involucrarme en todo el ciclo de vida del proyecto: desde el boceto y d
 </div>
 
 ###  Cómo contactarme
-*   **LinkedIn:** [Tu Enlace a LinkedIn](link)
-*   **Portafolio Visual / Figma:** [Enlace si tienes uno](link)
-*   **Email:** tu-correo@ejemplo.com
+*   **LinkedIn:** 
+*   **Portafolio Visual / Figma:** 
+*   **Email:** andreagiselle.ja@gmail.com
 
 ---
 ✨ *De Andrea*
