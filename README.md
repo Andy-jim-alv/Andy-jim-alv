@@ -1,8 +1,8 @@
 
-# ¡Hola!  Soy Andy
+# ¡Hola!  Soy Andrea Giselle Jiménez Alvarado 
 
-**Desarrolladora de Software enfocada en el Diseño Web y Arquitectura de Proyectos**
-
+**Estudiante de la Universidad Politecnica de San Luis Potosi**
+Soy estudiante de la carrera Ingenieria en Tecnoligias de la Informacion y estoy cursando mi quinto semestre.
 Me apasiona transformar ideas en experiencias digitales completas. Tengo un fuerte enfoque en el **diseño de páginas web y la conceptualización visual de proyectos**, asegurándome de que el software no solo funcione perfecto por detrás, sino que sea intuitivo, visualmente atractivo y centrado en el usuario (UI/UX). 
 
 Disfruto involucrarme en todo el ciclo de vida del proyecto: desde el boceto y diseño de la interfaz, hasta el desarrollo del código final.
