@@ -10,7 +10,7 @@ Disfruto involucrarme en todo el ciclo de vida del proyecto: desde el boceto y d
 ###  Mi Tech Stack
 
 **Diseño y UI/UX**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,6 +34,10 @@ Disfruto involucrarme en todo el ciclo de vida del proyecto: desde el boceto y d
 ###  Actualmente estoy...
 *   Explorando nuevas tendencias de diseño web, animaciones y desarrollo frontend.
 *   Mejorando mis procesos de creación de prototipos y maquetación de proyectos antes de pasar al código.
+
+### Habilidades Blandas y Liderazgo (Soft Skills) 
+Liderazgo y toma de decisiones bajo presión: Puedes mencionar tu experiencia coordinando equipo, destacando la comunicación efectiva y la estrategia.
+Gestión de proyectos y emprendimiento (ventas, atención a clientes, diseño de marca)
 
 ###  Estadísticas de GitHub
 
