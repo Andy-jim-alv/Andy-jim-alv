@@ -36,7 +36,8 @@ Disfruto involucrarme en todo el ciclo de vida del proyecto: desde el boceto y d
 *   Mejorando mis procesos de creación de prototipos y maquetación de proyectos antes de pasar al código.
 
 ### Habilidades Blandas y Liderazgo (Soft Skills) 
-Liderazgo y toma de decisiones bajo presión: Puedes mencionar tu experiencia coordinando equipo, destacando la comunicación efectiva y la estrategia.
+Liderazgo y toma de decisiones bajo presión 
+Me he desarrollado en el ámbito comparativo para proyectos dentro de la universidad haciendo más versátil el trabajo en equipo 
 Gestión de proyectos y emprendimiento (ventas, atención a clientes, diseño de marca)
 
 ###  Estadísticas de GitHub
